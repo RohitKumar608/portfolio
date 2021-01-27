@@ -1,4 +1,4 @@
-import BaseLayout from "../component/layout/BaseLayout"
+import BaseLayout from "../components/layouts/BaseLayout"
 
 export default function Home() {
   return (
